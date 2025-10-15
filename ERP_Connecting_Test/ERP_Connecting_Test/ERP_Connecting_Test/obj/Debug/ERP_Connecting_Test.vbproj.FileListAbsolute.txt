@@ -1,0 +1,11 @@
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\bin\Debug\ERP_Connecting_Test.exe.config
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\bin\Debug\ERP_Connecting_Test.exe
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\bin\Debug\ERP_Connecting_Test.pdb
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\bin\Debug\ERP_Connecting_Test.xml
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\obj\Debug\ERP_Connecting_Test.Form1.resources
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\obj\Debug\ERP_Connecting_Test.Resources.resources
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\obj\Debug\ERP_Connecting_Test.vbproj.GenerateResource.Cache
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\obj\Debug\ERP_Connecting_Test.exe
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\obj\Debug\ERP_Connecting_Test.xml
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\obj\Debug\ERP_Connecting_Test.pdb
+C:\Users\Lcadmin\Desktop\Test_ERP\ERP_Connecting_Test\ERP_Connecting_Test\ERP_Connecting_Test\obj\Debug\ERP_Connecting_Test.FormInsert.resources
